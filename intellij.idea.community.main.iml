@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="intellij.ant" />
     <orderEntry type="module" module-name="intellij.platform.boot" />
     <orderEntry type="module" module-name="intellij.platform.bootstrap" />
     <orderEntry type="module" module-name="intellij.platform.annotations.java5" />
@@ -55,18 +54,14 @@
     <orderEntry type="module" module-name="intellij.xml.impl" />
     <orderEntry type="module" module-name="intellij.xml" />
     <orderEntry type="module" module-name="intellij.idea.community.resources" />
-    <orderEntry type="module" module-name="intellij.java.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.copyright" />
     <orderEntry type="module" module-name="intellij.vcs.cvs" />
     <orderEntry type="module" module-name="intellij.platform.testFramework" />
     <orderEntry type="module" module-name="intellij.java.guiForms.designer" />
-    <orderEntry type="module" module-name="intellij.devkit" />
     <orderEntry type="module" module-name="intellij.eclipse" />
     <orderEntry type="module" module-name="intellij.vcs.git" />
     <orderEntry type="module" module-name="intellij.platform.images" />
-    <orderEntry type="module" module-name="intellij.groovy" />
     <orderEntry type="module" module-name="intellij.junit" />
-    <orderEntry type="module" module-name="intellij.maven" />
     <orderEntry type="module" module-name="intellij.regexp" />
     <orderEntry type="module" module-name="intellij.vcs.svn" />
     <orderEntry type="module" module-name="intellij.vcs.svn.tests" scope="TEST" />
@@ -83,16 +78,13 @@
     <orderEntry type="module" module-name="intellij.vcs.github" />
     <orderEntry type="module" module-name="intellij.vcs.hg" />
     <orderEntry type="module" module-name="intellij.relaxng" />
-    <orderEntry type="module" module-name="intellij.gradle" />
     <orderEntry type="module" module-name="intellij.platform.remoteServers.impl" />
     <orderEntry type="module" module-name="intellij.xml.dom.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.platform.colorSchemes" />
-    <orderEntry type="module" module-name="intellij.javaFX.community" />
     <orderEntry type="module" module-name="intellij.javaFX.jps" />
     <orderEntry type="module" module-name="intellij.platform.langInjection.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.java.manifest" />
     <orderEntry type="module" module-name="intellij.yaml" />
-    <orderEntry type="module" module-name="intellij.xml.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.devkit.jps" scope="TEST" />
     <orderEntry type="module" module-name="intellij.tasks.core" />
     <orderEntry type="module" module-name="intellij.platform.jps.model.serialization.tests" scope="TEST" />
@@ -103,7 +95,6 @@
     <orderEntry type="module" module-name="intellij.platform.structuralSearch" />
     <orderEntry type="module" module-name="intellij.java.structuralSearch" />
     <orderEntry type="module" module-name="intellij.platform.structuralSearch.tests" scope="TEST" />
-    <orderEntry type="module" module-name="intellij.groovy.structuralSearch" />
     <orderEntry type="module" module-name="intellij.json" />
     <orderEntry type="module" module-name="intellij.json.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.java.typeMigration" />
