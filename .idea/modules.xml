@@ -422,7 +422,6 @@
       <module fileurl="file://$PROJECT_DIR$/android/android/intellij.androidStudio.main.iml" filepath="$PROJECT_DIR$/android/android/intellij.androidStudio.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/ant/jps-plugin/intellij.ant.jps.iml" filepath="$PROJECT_DIR$/plugins/ant/jps-plugin/intellij.ant.jps.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/commander/intellij.commander.iml" filepath="$PROJECT_DIR$/plugins/commander/intellij.commander.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugins/copyright/intellij.copyright.iml" filepath="$PROJECT_DIR$/plugins/copyright/intellij.copyright.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/cucumber-jvm-formatter/intellij.cucumber.jvmFormatter.iml" filepath="$PROJECT_DIR$/plugins/cucumber-jvm-formatter/intellij.cucumber.jvmFormatter.iml" />
       <module fileurl="file://$PROJECT_DIR$/build/cucumber-test-runner/intellij.cucumber.testRunner.iml" filepath="$PROJECT_DIR$/build/cucumber-test-runner/intellij.cucumber.testRunner.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/devkit/jps-plugin/intellij.devkit.jps.iml" filepath="$PROJECT_DIR$/plugins/devkit/jps-plugin/intellij.devkit.jps.iml" />
