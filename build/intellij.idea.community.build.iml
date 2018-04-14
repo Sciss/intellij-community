@@ -39,7 +39,5 @@
     <orderEntry type="module" module-name="intellij.platform.util" exported="" />
     <orderEntry type="module" module-name="intellij.platform.buildScripts" exported="" />
     <orderEntry type="module" module-name="intellij.java.guiForms.jps" scope="RUNTIME" />
-    <orderEntry type="module" module-name="intellij.groovy.jps" scope="RUNTIME" />
-    <orderEntry type="module" module-name="intellij.groovy.rt" scope="RUNTIME" />
   </component>
 </module>

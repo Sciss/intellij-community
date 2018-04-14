@@ -23,8 +23,6 @@
     <orderEntry type="module" module-name="intellij.tools.jps.build.standalone" exported="" />
     <orderEntry type="module" module-name="intellij.platform.util" exported="" />
     <orderEntry type="module" module-name="intellij.java.guiForms.jps" scope="RUNTIME" />
-    <orderEntry type="module" module-name="intellij.groovy.jps" scope="RUNTIME" />
-    <orderEntry type="module" module-name="intellij.groovy.rt" scope="RUNTIME" />
     <orderEntry type="library" exported="" name="gant-groovy" level="project" />
     <orderEntry type="library" scope="TEST" name="JUnit4" level="project" />
   </component>
