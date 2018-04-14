@@ -64,7 +64,6 @@
     <orderEntry type="module" module-name="intellij.regexp" />
     <orderEntry type="module" module-name="intellij.vcs.svn" />
     <orderEntry type="module" module-name="intellij.vcs.svn.tests" scope="TEST" />
-    <orderEntry type="module" module-name="intellij.testng" />
     <orderEntry type="module" module-name="intellij.java.langInjection" />
     <orderEntry type="module" module-name="intellij.xml.langInjection" />
     <orderEntry type="module" module-name="intellij.xpath" />
@@ -99,7 +98,6 @@
     <orderEntry type="module" module-name="intellij.platform.diff.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.platform.builtInServer.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.platform.updater" scope="TEST" />
-    <orderEntry type="module" module-name="intellij.java.coverage" />
     <orderEntry type="module" module-name="intellij.android.jps" scope="TEST" />
     <orderEntry type="module" module-name="intellij.platform.scriptDebugger.ui" scope="TEST" />
     <orderEntry type="module" module-name="intellij.java.remoteServers.git" />
