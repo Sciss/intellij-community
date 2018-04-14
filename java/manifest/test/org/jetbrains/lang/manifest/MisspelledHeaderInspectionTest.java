@@ -17,7 +17,6 @@ package org.jetbrains.lang.manifest;
 
 import com.intellij.codeInsight.intention.IntentionAction;
 import com.intellij.testFramework.fixtures.LightCodeInsightFixtureTestCase;
-import org.jetbrains.lang.manifest.highlighting.MisspelledHeaderInspection;
 
 import java.util.Collections;
 import java.util.List;

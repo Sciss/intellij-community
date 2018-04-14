@@ -38,10 +38,8 @@
     <orderEntry type="module" module-name="intellij.platform.main" />
     <orderEntry type="module" module-name="intellij.platform.resources" />
     <orderEntry type="module" module-name="intellij.platform.resources.en" />
-    <orderEntry type="module" module-name="intellij.properties" />
     <orderEntry type="module" module-name="intellij.java.resources" />
     <orderEntry type="module" module-name="intellij.java.resources.en" />
-    <orderEntry type="module" module-name="intellij.spellchecker" />
     <orderEntry type="module" module-name="intellij.jsp.base" />
     <orderEntry type="module" module-name="intellij.java.testFramework" />
     <orderEntry type="module" module-name="intellij.platform.testRunner" />
@@ -74,8 +72,6 @@
     <orderEntry type="module" module-name="intellij.platform.colorSchemes" />
     <orderEntry type="module" module-name="intellij.javaFX.jps" />
     <orderEntry type="module" module-name="intellij.platform.langInjection.tests" scope="TEST" />
-    <orderEntry type="module" module-name="intellij.java.manifest" />
-    <orderEntry type="module" module-name="intellij.yaml" />
     <orderEntry type="module" module-name="intellij.devkit.jps" scope="TEST" />
     <orderEntry type="module" module-name="intellij.tasks.core" />
     <orderEntry type="module" module-name="intellij.platform.jps.model.serialization.tests" scope="TEST" />
@@ -86,8 +82,6 @@
     <orderEntry type="module" module-name="intellij.platform.structuralSearch" />
     <orderEntry type="module" module-name="intellij.java.structuralSearch" />
     <orderEntry type="module" module-name="intellij.platform.structuralSearch.tests" scope="TEST" />
-    <orderEntry type="module" module-name="intellij.json" />
-    <orderEntry type="module" module-name="intellij.json.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.java.typeMigration" />
     <orderEntry type="module" module-name="intellij.platform.tests" scope="TEST" />
     <orderEntry type="module" module-name="intellij.platform.jps.model.tests" scope="TEST" />
