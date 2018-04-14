@@ -20,7 +20,7 @@ import com.intellij.openapi.util.io.FileUtil;
 import com.intellij.openapi.vcs.ProjectLevelVcsManager;
 import com.intellij.openapi.vcs.impl.ProjectLevelVcsManagerImpl;
 import com.intellij.openapi.vfs.LocalFileSystem;
-import com.intellij.util.ObjectUtils;
+import com.intellij.util.xObjectUtils;
 import hg4idea.test.HgExecutor;
 import hg4idea.test.HgPlatformTest;
 import org.jetbrains.annotations.NotNull;
