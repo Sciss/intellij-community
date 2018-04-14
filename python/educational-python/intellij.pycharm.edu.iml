@@ -25,7 +25,6 @@
     <orderEntry type="module" module-name="intellij.platform.debugger.impl" />
     <orderEntry type="module" module-name="intellij.xml.psi.impl" />
     <orderEntry type="module" module-name="intellij.pycharm.community.resources" />
-    <orderEntry type="module" module-name="intellij.python.community.impl" />
     <orderEntry type="library" name="markdownj" level="project" />
   </component>
 </module>
